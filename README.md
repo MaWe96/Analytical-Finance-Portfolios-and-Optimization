@@ -1,4 +1,4 @@
-This Analytical Finance project contains a MATLAB implementation for analyzing results from several strategies and weights, concerning weighted long, long and short, and risk-free asset portfolios.
+This Analytical Finance project uses MATLAB to evaluate the performance of different portfolio strategies, including weighted long-only portfolios, long-short portfolios, and portfolios incorporating risk-free assets.
 
 Key features:
 - Weighted portfolios.
